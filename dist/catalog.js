@@ -1,86 +1,65 @@
 (() => {
   const products = [
     {
-        "id": "conceito-scooter",
-        "name": "Scooter elétrica · exemplo",
-        "brand": "Ilustrativo",
+        "id": "best-bike-scooter",
+        "name": "Scooters elétricas",
+        "brand": "Best Bike Natal",
         "type": "scooter",
-        "use": "Cidade · exemplo visual",
-        "tag": "Ilustrativo",
+        "use": "Passeio · trabalho · lazer",
+        "tag": "Categoria confirmada",
         "image": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01K1JES6SN0XNVFZ01V2CB1S8A.webp",
         "source": "#colecao",
-        "description": "Imagem demonstrativa para visualizar a organização do catálogo. Não representa produto, versão, especificação ou estoque da loja.",
+        "description": "A Best Bike trabalha com scooters elétricas. Modelos, versões, autonomia, preço e disponibilidade a confirmar com a equipe.",
         "facts": [
             "A confirmar",
             "A confirmar",
-            "Sob consulta"
+            "A confirmar"
         ],
         "factLabels": [
+            "Modelo",
             "Autonomia",
-            "Versão",
             "Disponibilidade"
         ]
     },
     {
-        "id": "conceito-bike",
-        "name": "E-bike · exemplo",
-        "brand": "Ilustrativo",
-        "type": "bike",
-        "use": "Trajeto · exemplo visual",
-        "tag": "Ilustrativo",
-        "image": "https://monarcbikes.com/cdn/shop/files/Tracer-Superior-Side2.png?v=1782182100&width=1400",
-        "source": "#colecao",
-        "description": "Imagem demonstrativa. Produto e disponibilidade precisam ser confirmados com a loja.",
-        "facts": [
-            "A confirmar",
-            "A confirmar",
-            "Sob consulta"
-        ],
-        "factLabels": [
-            "Autonomia",
-            "Versão",
-            "Disponibilidade"
-        ]
-    },
-    {
-        "id": "conceito-patinete",
-        "name": "Patinete · exemplo",
-        "brand": "Ilustrativo",
-        "type": "patinete",
-        "use": "Último trecho · exemplo",
-        "tag": "Ilustrativo",
-        "image": "https://i05.appmifile.com/467_item_hu/12/08/2025/bec4608a80448b9a4a90929090a60bd7.png?q=85&thumb=1&w=900",
-        "source": "#colecao",
-        "description": "Imagem demonstrativa. Não atribui modelo ou ficha à loja.",
-        "facts": [
-            "A confirmar",
-            "A confirmar",
-            "Sob consulta"
-        ],
-        "factLabels": [
-            "Autonomia",
-            "Versão",
-            "Disponibilidade"
-        ]
-    },
-    {
-        "id": "conceito-triciclo",
-        "name": "Triciclo · exemplo",
-        "brand": "Ilustrativo",
+        "id": "best-bike-triciclo",
+        "name": "Triciclos elétricos",
+        "brand": "Best Bike Natal",
         "type": "trike",
-        "use": "Conforto · exemplo visual",
-        "tag": "Ilustrativo",
+        "use": "Escolha conforme o trajeto",
+        "tag": "Categoria confirmada",
         "image": "https://www.pashley.co.uk/cdn/shop/products/pashley-alecs-e-cargo-trike-side-view_ba1894c5-6461-44a0-9b64-7422251e629a_1800x.jpg?v=1674642067",
         "source": "#colecao",
-        "description": "Imagem demonstrativa; modelo, especificações, preço e estoque dependem da confirmação da loja.",
+        "description": "Categoria confirmada pela loja. Converse com a equipe sobre seu uso e autonomia necessária; fotos e ficha do produto a confirmar.",
         "facts": [
             "A confirmar",
             "A confirmar",
-            "Sob consulta"
+            "A confirmar"
         ],
         "factLabels": [
+            "Modelo",
             "Autonomia",
-            "Versão",
+            "Disponibilidade"
+        ]
+    },
+    {
+        "id": "best-bike-ebike",
+        "name": "E-bikes",
+        "brand": "Best Bike Natal",
+        "type": "bike",
+        "use": "Passeio · trabalho · lazer",
+        "tag": "Categoria confirmada",
+        "image": "https://monarcbikes.com/cdn/shop/files/Tracer-Superior-Side2.png?v=1782182100&width=1400",
+        "source": "#colecao",
+        "description": "Categoria confirmada pela loja. A indicação considera o uso e o trajeto; modelo, foto, autonomia e disponibilidade a confirmar.",
+        "facts": [
+            "A confirmar",
+            "A confirmar",
+            "A confirmar"
+        ],
+        "factLabels": [
+            "Modelo",
+            "Autonomia",
             "Disponibilidade"
         ]
     }
